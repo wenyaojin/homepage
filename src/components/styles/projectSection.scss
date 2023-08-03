@@ -1,0 +1,17 @@
+.heading4 {
+  font-size: 30px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #756c6c;
+}
+
+.projectBoxWrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-top: 60px;
+}
+
+.projectBoxSection {
+  padding: 60px
+}

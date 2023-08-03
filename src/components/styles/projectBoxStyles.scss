@@ -1,0 +1,21 @@
+.projectTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.projectBox {
+  height: 300px;
+  padding: 24px;
+}
+
+.projectBox:first-child {
+  background-image: linear-gradient(135deg,#7bbef5 10%,#c9e6ab);
+}
+  
+.projectBox:nth-child(2) {
+  background-image: linear-gradient(135deg,#b0affa 10%,#f6d2da);
+}
+.projectBox:nth-child(3) {
+  background-image: linear-gradient(135deg,#f690af 10%,#f6e05f);
+}

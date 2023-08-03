@@ -1,0 +1,34 @@
+.burgerButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  background-color: #c3bfbf;
+  height: 50px;
+  width: 50px;
+  top: 24px;
+  right: 24px;
+  border-radius: 50%;
+}
+
+.bar1 {
+  background-color: white;
+  margin: 4px 0px;
+  height: 2px;
+  width: 20px;
+}
+
+.bar2 {
+  background-color: white;
+  margin: 4px 0px;
+  height: 2px;
+  width: 30px;
+}
+
+.bar3 {
+  background-color: white;
+  margin: 4px 0px;
+  height: 2px;
+  width: 20px;
+}
